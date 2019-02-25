@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/myTSP.iml" filepath="$PROJECT_DIR$/.idea/myTSP.iml" />
+      <module fileurl="file://E:\Project\Python\ruisi\.idea\ruisi.iml" filepath="E:\Project\Python\ruisi\.idea\ruisi.iml" />
+    </modules>
+  </component>
+</project>
